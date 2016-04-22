@@ -1,0 +1,35 @@
+//
+//  PrefixHeader.pch
+//  Animation_demo
+//
+//  Created by rong on 16/4/19.
+//  Copyright © 2016年 rong. All rights reserved.
+//
+#define MAS_SHORTHAND
+
+#import <UIKit/UIKit.h>
+#import "Masonry.h"
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+typedef NS_ENUM(NSInteger,AnimationType){
+    AnimationTypeNormal,            //UIview封装普通动画
+    AnimationTypeSpring,            //UIview封装弹簧动画
+    AnimationTypeKeyframe,          //UIview封装关键帧动画
+    AnimationTransition,            //UIview封装转场动画
+    AnimationTypeCALayer,           //CALayer动画
+    AnimationTypeCALayerDraw,       //CALayer绘图
+    AnimationTypeCoreBase,          //Core Animation 基础动画
+    AnimationTypeCoreKeyframe,      //Core Animation 关键帧动画
+    AnimationTypeCoreGroup,         //Core Animation 动画组
+    AnimationTypeCoreTranform,      //Core Animation 转场动画
+    AnimationTypeCoreCADisplayLink  //Core Animation 逐帧动画
+};
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
