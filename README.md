@@ -11,3 +11,6 @@
     AnimationTypeCoreGroup,         //Core Animation 动画组
     AnimationTypeCoreTranform,      //Core Animation 转场动画
     AnimationTypeCoreCADisplayLink  //Core Animation 逐帧动画
+
+
+![image](http://github.com/rongshutou/iOS-Animation/iOS-Animationr/animation.gif
