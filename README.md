@@ -1,3 +1,5 @@
+![image](http://github.com/rongshutou/iOS-Animation/raw/master/animation.gif)
+
 # iosAnimation
 # ios-animation
     AnimationTypeNormal,            //UIview封装普通动画
@@ -13,4 +15,3 @@
     AnimationTypeCoreCADisplayLink  //Core Animation 逐帧动画
 
 
-![image](http://github.com/rongshutou/iOS-Animation/raw/master/animation.gif)
