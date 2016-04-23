@@ -1,5 +1,8 @@
 ![image](http://github.com/rongshutou/iOS-Animation/raw/master/animation.gif)
 
+![image](http://github.com/rongshutou/iOS-Animation/raw/master/Animation_demo/1.jpg)
+
+
 # iosAnimation
 # ios-animation
     AnimationTypeNormal,            //UIview封装普通动画
