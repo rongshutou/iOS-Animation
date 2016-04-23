@@ -13,4 +13,4 @@
     AnimationTypeCoreCADisplayLink  //Core Animation 逐帧动画
 
 
-![image](http://github.com/rongshutou/iOS-Animation/animation.gif)
+![image](http://github.com/rongshutou/raw/master/iOS-Animation/animation.gif)
